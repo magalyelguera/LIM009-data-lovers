@@ -216,9 +216,6 @@ const input2 = [
   { anio: "2017", val: 47.2914009094238 }
 ]
 
-
-
-
 const input3 = [
   {
     "data": {
@@ -1502,9 +1499,6 @@ const input3 = [
   }
 ]
 
-
-
-
 const output1 = [{
   "id": "SL.TLF.BASC.ZS",
   "name": "Fuerza laboral con educación básica"
@@ -1516,8 +1510,6 @@ const output1 = [{
   "name": "Fuerza laboral con educación básica mujeres"
 }
 ]
-
-
 
 const output2 = [{
   "data": {
@@ -1746,8 +1738,6 @@ const output4 = [
   { anio: "2015", val: 46.7711982727051 },
   { anio: "2016", val: 45.850399017334 }
 ]
-
-
 
 const output5 = [
   { anio: "2002", val: 56.2318000793457 },
@@ -2156,8 +2146,6 @@ const output7 = [
     "indicatorName": "Empleo de tiempo parcial, mujeres (% del total de mujeres empleadas)"
   },
 ]
-
-
 
 describe('WORLDBANK', () => {
   it('debería ser un objeto', () => {
